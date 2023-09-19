@@ -1,2 +1,3 @@
 # Hello World
 ### Reo George
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
